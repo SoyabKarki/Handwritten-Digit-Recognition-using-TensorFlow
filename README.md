@@ -9,7 +9,7 @@ This project utilizes TensorFlow's Keras API to recognize handwritten digits fro
 - matplotlib
 
 ### Dataset
-The code loads the MNIST dataset using TensorFlow's 'mnist' module.
+The code utilizes the MNIST dataset using TensorFlow's 'mnist' module.
 
 ### Model
 The model consists of 3 Dense layers and is compiled with the Adam optimizer, sparse categorical cross-entropy loss function, and accuracy metric. 
